@@ -7,7 +7,7 @@ This is a Vue 3 project with Vuetify 3, Pinia, and Vite, fully containerized wit
 To initialize and start the application, you only need to run:
 
 ```bash
-docker compose up --build
+docker compose up -d --build
 ```
 
 The application will be accessible at [http://localhost:3000](http://localhost:3000).
